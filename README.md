@@ -93,14 +93,6 @@ Le notebook log:
 
 Puis recharge le modele depuis MLflow pour verification.
 
-## Structure actuelle du projet
-
-```text
-.
-├── Projet_Churn_Databricks.ipynb
-└── README.md
-```
-
 ## Execution du notebook (Databricks)
 
 1. Importer `Projet_Churn_Databricks.ipynb` dans votre workspace Databricks.
